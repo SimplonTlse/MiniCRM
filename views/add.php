@@ -18,6 +18,10 @@
 		<label for="phone">Téléphone</label>
 		<input type="text" id="phone" name="telephone">
 	</div>
+	<div class="field">
+		<label for="adr">Adresse</label>
+		<textarea name="adresse" id="adr" cols="30" rows="10"></textarea>
+	</div>
 	<div>
 		<button class="ui button green"><i class="icon checkmark"></i> All right !</button>
 	</div>
